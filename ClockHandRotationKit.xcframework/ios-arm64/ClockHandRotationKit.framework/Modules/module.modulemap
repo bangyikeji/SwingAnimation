@@ -1,4 +1,0 @@
-framework module ClockHandRotationKit {
-  export *
-  module ClockHandRotationKit { export * }
-}
